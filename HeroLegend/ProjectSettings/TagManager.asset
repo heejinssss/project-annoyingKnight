@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Note
+  - Door
+  - Rock
+  - Enemy
+  - Ground
+  - Area
+  - Dust
+  - Bullet
+  - ItemBox
+  - Start
+  - Noise
+  - Boss
+  - Item
+  - PlayerAttack
+  - EnemySkill
+  - PlayerSkill
+  - PlayerSkillOil
+  - PlayerSkillFire
+  - bulleteat
+  - hearteat
+  - speakereat
+  - boomeat
+  - Item
+  - Land
+  - BossAttack
+  - Entry
+  - Border
+  - PerfectFood
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PlatForm
+  - Water
+  - UI
+  - Object
+  - 
+  - Player
+  - PlayerDamaged
+  - Ground
+  - Enemy
+  - PlayerSkill
+  - PlayerAttack
+  - Item
+  - 
+  - ItemEat
+  - BossAttack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Symmetry
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
